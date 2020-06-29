@@ -49,3 +49,15 @@ if (the_meal_is_good)
 
 # Condition (if)
 
+Conditions are written like this
+
+```csharp
+string stan = Console.ReadLine();
+
+if (stan == "Stanley")
+{
+   Console.WriteLine("Stanley is the best programmer, better than zellidev");
+}
+```
+
+
