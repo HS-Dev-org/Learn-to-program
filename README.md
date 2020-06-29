@@ -84,7 +84,7 @@ The for loop is used to repeat something until it stops. It is written like that
 ```csharp
 
 int count;
-for (count = 1; count < 400; compteur++)
+for (count = 1; count < 400; count++)
 {
     Console.WriteLine("#" + count);
 }
