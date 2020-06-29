@@ -115,4 +115,6 @@ foreach (string planet in planets)
 
 # Other (WriteLine, ReadLine, ReadKey, Write ...)
 
-``Console.WriteLine
+```csharp
+Console.WriteLine
+```
