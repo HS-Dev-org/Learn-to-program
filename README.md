@@ -33,7 +33,7 @@ int number = 3;
 Console.WriteLine(number);
 ```
 
-# Variable 
+# Variable (bool)
 
 The Boolean variable is a variable of truths. it's close to the conditions, Like this :
 ```csharp
