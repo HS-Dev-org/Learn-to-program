@@ -89,3 +89,14 @@ for (count = 1; count < 400; count++)
     Console.WriteLine("#" + count);
 }
 ```
+
+other example
+
+```csharp
+string[] gf-user = new string[] { "Smooth", "Stanley", "Stanford", "Bill", "Mabel", "Deeper", "Wendy" };
+int indice;
+for (indice = 0; indice < 7; indice++)
+{
+    Console.WriteLine(gf-user[indice]);
+}
+```
