@@ -18,3 +18,19 @@ Console.WriteLine(chain);
 
 The string variable will ask you what you want to write and will therefore write it
 
+# Variable (int)
+
+The int variable is used for numbers, written as a string except that you are going to put a number. that gives us that
+
+```chsarp
+int number = 3;
+```
+
+puis 
+
+```chsarp
+int number = 3;
+Console.WriteLine(number);
+```
+
+
