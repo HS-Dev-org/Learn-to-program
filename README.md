@@ -10,7 +10,7 @@ string chain = Console.ReadLine();
 
 Then write what you wrote.
 
-``` javascript 
+```csharp 
 string chain = Console.ReadLine();
 
 Console.WriteLine(chain);
