@@ -80,4 +80,12 @@ else
 ```
 # Loop (for)
 
-The for loop is used to repeat something until it stops. It is written like that
+The for loop is used to repeat something until it stops. It is written like that. We will create a for loop and repeat it 400 times
+```csharp
+
+int count;
+for (count = 1; count < 400; compteur++)
+{
+    Console.WriteLine("#" + count);
+}
+```
