@@ -4,7 +4,7 @@
 
 We will first start by creating a string variable like this 
 
-``` javascript 
+```csharp 
 string chain = Console.ReadLine();
 ``` 
 
