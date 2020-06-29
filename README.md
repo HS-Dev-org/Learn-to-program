@@ -100,3 +100,15 @@ for (indice = 0; indice < 7; indice++)
     Console.WriteLine(gf-user[indice]);
 }
 ```
+
+# Loop (foreach)
+
+The foreach loop is used for specific objects, to traverse all the elements of an array. Using : 
+
+```csharp
+string[] planets = new string[] { "Earth", "Mars", "Jupyter", "Saturn", "Uranus", "PLuto", "Neptune" };
+foreach (string planet in planets)
+{
+    Console.WriteLine(planet);
+}
+```
