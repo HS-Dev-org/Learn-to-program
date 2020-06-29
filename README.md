@@ -1,4 +1,4 @@
-# Course Number #1 (C#)
+# Course Number #1 (CSharp)
 
 # Variable (string)
 
