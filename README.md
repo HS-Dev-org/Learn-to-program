@@ -112,3 +112,7 @@ foreach (string planet in planets)
     Console.WriteLine(planet);
 }
 ```
+
+# Other (WriteLine, ReadLine, ReadKey, Write ...)
+
+``Console.WriteLine
