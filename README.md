@@ -60,4 +60,23 @@ if (stan == "Stanley")
 }
 ```
 
+# Condition (else)
+
+Else is used to give a possible exit from the if. We will resume our example from before, It is written like this
+
+```csharp
+string stan = Console.ReadLine();
+
+if (stan == "Stanley")
+{
+   Console.WriteLine("Stanley is the best programmer, better than zellidev");
+}
+else 
+
+{
+   Console.WriteLine("hum, write Stanley please : )");
+]
+
+```
+
 
