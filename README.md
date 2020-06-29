@@ -130,7 +130,7 @@ using exemple : Allows you to import a library (installed via nuget)
 
 Console.ForegroundColor = ConsoleColor.Cyan; Set a color for console text
 
-if {} : condition
+if {}, else{} : condition
 
 System.Threading.Thread.Sleep(1000) : wait for 1 seconde 
 
