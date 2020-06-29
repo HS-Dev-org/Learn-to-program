@@ -116,5 +116,30 @@ foreach (string planet in planets)
 # Other (WriteLine, ReadLine, ReadKey, Write ...)
 
 ```csharp
-Console.WriteLine
+Console.WriteLine(); : Write a text then wrap
+
+Console.Write(); : Write a text
+
+Console.ReadLine(); : Allows you to write a text
+
+Console.ReadKey(); : Get information about a key (ideal for key conditions)
+
+Console.Title = "title"; : Put a name on the console
+
+using exemple : Allows you to import a library (installed via nuget)
+
+Console.ForegroundColor = ConsoleColor.Cyan; Set a color for console text
+
+if {} : condition
+
+System.Threading.Thread.Sleep(1000) : wait for 1 seconde 
+
+Console.Clear(); : clear the console
+
+Program.Main(args); : return to the Main
+
+try : try
+catch : if exception for the try, continue
+
+
 ```
