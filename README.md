@@ -26,11 +26,23 @@ The int variable is used for numbers, written as a string except that you are go
 int number = 3;
 ```
 
-puis 
+and
 
 ```chsarp
 int number = 3;
 Console.WriteLine(number);
 ```
 
+# Variable 
 
+The Boolean variable is a variable of truths. it's close to the conditions, Like this :
+```csharp
+bool the_meal_is_good = true;
+
+if (the_meal_is_good)
+{
+    Console.WriteLine("The meal must have been delicious");
+}
+
+
+```
