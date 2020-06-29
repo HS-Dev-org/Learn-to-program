@@ -78,5 +78,6 @@ else
 ]
 
 ```
+# Loop (for)
 
-
+The for loop is used to repeat something until it stops. It is written like that
